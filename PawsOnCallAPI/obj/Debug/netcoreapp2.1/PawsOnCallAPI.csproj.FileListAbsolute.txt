@@ -1,0 +1,11 @@
+C:\Users\mitch\source\repos\PawsOnCallAPI\PawsOnCallAPI\bin\Debug\netcoreapp2.1\PawsOnCallAPI.deps.json
+C:\Users\mitch\source\repos\PawsOnCallAPI\PawsOnCallAPI\bin\Debug\netcoreapp2.1\PawsOnCallAPI.runtimeconfig.json
+C:\Users\mitch\source\repos\PawsOnCallAPI\PawsOnCallAPI\bin\Debug\netcoreapp2.1\PawsOnCallAPI.runtimeconfig.dev.json
+C:\Users\mitch\source\repos\PawsOnCallAPI\PawsOnCallAPI\bin\Debug\netcoreapp2.1\PawsOnCallAPI.dll
+C:\Users\mitch\source\repos\PawsOnCallAPI\PawsOnCallAPI\bin\Debug\netcoreapp2.1\PawsOnCallAPI.pdb
+C:\Users\mitch\source\repos\PawsOnCallAPI\PawsOnCallAPI\obj\Debug\netcoreapp2.1\PawsOnCallAPI.csprojAssemblyReference.cache
+C:\Users\mitch\source\repos\PawsOnCallAPI\PawsOnCallAPI\obj\Debug\netcoreapp2.1\PawsOnCallAPI.csproj.CoreCompileInputs.cache
+C:\Users\mitch\source\repos\PawsOnCallAPI\PawsOnCallAPI\obj\Debug\netcoreapp2.1\PawsOnCallAPI.AssemblyInfoInputs.cache
+C:\Users\mitch\source\repos\PawsOnCallAPI\PawsOnCallAPI\obj\Debug\netcoreapp2.1\PawsOnCallAPI.AssemblyInfo.cs
+C:\Users\mitch\source\repos\PawsOnCallAPI\PawsOnCallAPI\obj\Debug\netcoreapp2.1\PawsOnCallAPI.dll
+C:\Users\mitch\source\repos\PawsOnCallAPI\PawsOnCallAPI\obj\Debug\netcoreapp2.1\PawsOnCallAPI.pdb
